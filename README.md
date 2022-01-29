@@ -95,7 +95,7 @@ pip3 install -r requirements.txt
 # <Create config.py appropriately>
 python3 bot.py
 ```
-
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FIamsreerag%2FUnlimited-Filter-Bot&envs=API_HASH%2CAPI_ID%2CAUTH_USERS%2CDATABASE_NAME%2CDATABASE_URI%2CHEROKU_API_KEY%2CSAVE_USER%2CTG_BOT_TOKEN%2CWEBHOOK&optionalEnvs=DATABASE_NAME%2CHEROKU_API_KEY%2CSAVE_USER&DATABASE_NAMEDesc=Your+database+name+from+mongoDB.+%28+Default+will+%27Cluster0%27+%29&SAVE_USERDesc=Do+you+need+to+save+user+details%3F+Usefull+for+getting+userinfo+and+total+user+counts.+May+reduce+filter+capacity.+Give+yes+or+no&DATABASE_NAMEDefault=Cluster0&HEROKU_API_KEYDefault=None&WEBHOOKDefault=ANYTHING&referralCode=VB53UW)
 
 ## Configs
 
